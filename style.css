@@ -74,10 +74,6 @@ p {
         overflow-x: hidden;
         padding: 0 !important;
         margin: 0 !important;
-        display: grid;
-        justify-content: center;
-        align-content: center;
-        align-items: center;
         height: 100vh;
     }
 
@@ -93,7 +89,7 @@ p {
     }
 
     h1 {
-        font-size: 35px;
+        font-size: 20px !important;
         color: white;
         font-family: 'Vidaloka';
         padding-bottom: 10px;
